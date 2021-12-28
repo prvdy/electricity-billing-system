@@ -11,3 +11,4 @@ c.execute("""CREATE TABLE electricbill (
             price integer
             )""")
 
+p = int(input("enter:"))
